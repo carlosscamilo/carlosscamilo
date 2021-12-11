@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 Sou estudante de programação, atuo em projetos da área desde de 2019 e atualmente formado como técnico em programação pelo IFPE :sunglasses:.
 
-Adoro jogos :video_game:, música :guitar:, filmes :cinema: e esportes :soccer:
+Adoro jogos :video_game:, música :guitar:, filmes :cinema: e esportes :soccer:.
