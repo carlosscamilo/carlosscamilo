@@ -49,3 +49,7 @@ Luto para incentivar pessoas, de todas as idades e genêros, a entrarem em TI, a
 <a href="https://www.linkedin.com/in/carlosscamilo"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/linkedin%20(1).png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/carlosscamilo)  
 
 <a href="mailto:carlos_camilo250@hotmail.com"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/email.png" width="16"></img></a> [Email](mailto:carlos_camilo250@hotmail.com)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=carlosscamilo&color=blue&style=flat)
