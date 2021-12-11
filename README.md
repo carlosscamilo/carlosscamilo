@@ -40,4 +40,4 @@ Luto para incentivar pessoas, de todas as idades e genêros, a entrarem em TI, a
 
 ---
 
-### E onde você pode me encontrar? :mag:
+## E onde você pode me encontrar? :mag:
