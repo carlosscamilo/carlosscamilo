@@ -37,3 +37,7 @@ Adoro jogos :video_game:, música :guitar:, filmes :cinema: e esportes :soccer:.
 Fui estudante do Start Latam Recife (By Accenture), Owner no projeto Start Hair e Footclube (Desenvolvido como Projeto de Conclusão de Curso do IFPE)
 
 Luto para incentivar pessoas, de todas as idades e genêros, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :hearts:
+
+---
+
+### E onde você pode me encontrar? :mag:
