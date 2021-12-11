@@ -41,3 +41,5 @@ Luto para incentivar pessoas, de todas as idades e genêros, a entrarem em TI, a
 ---
 
 ### E onde você pode me encontrar? :mag:
+
+<a href="https://twitter.com/carlosscamilo"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/carlosscamilo)   
