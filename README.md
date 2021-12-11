@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 </center>  
 
 ### Olá! Sejam Bem-Vindos :smiley: 👋
+
+---
+
+Sou estudante de programação, atuo em projetos da área desde de 2019 e atualmente formado como técnico pelo IFPE :sunglasses:. 
