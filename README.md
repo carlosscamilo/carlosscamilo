@@ -1,4 +1,4 @@
-![capa github](https://github.com/carlosscamilo/carlosscamilo/blob/main/images/Carlos Camilo GitHub Pronta.png)  
+![capa github](https://github.com/carlosscamilo/carlosscamilo/blob/main/images/Carlos%20Camilo%20GitHub%20Pronta.png)  
 ### Hi there 👋
 
 <!--
