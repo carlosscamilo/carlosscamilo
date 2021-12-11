@@ -43,3 +43,9 @@ Luto para incentivar pessoas, de todas as idades e genêros, a entrarem em TI, a
 ### E onde você pode me encontrar? :mag:
 
 <a href="https://twitter.com/carlosscamilo"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/carlosscamilo)   
+
+<a href="https://www.instagram.com/carlosscamilo/"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/carlosscamilo)  
+
+<a href="https://www.linkedin.com/in/carlosscamilo"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/carlosscamilo)  
+
+<a href="mailto:carlos_camilo250@hotmail.com"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/email.png" width="16"></img></a> [Email](mailto:carlos_camilo250@hotmail.com)  
