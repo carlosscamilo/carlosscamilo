@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ---
 
-Sou estudante de programação, atuo em projetos da área desde de 2019 e atualmente formado como técnico pelo IFPE :sunglasses:. 
+Sou estudante de programação, atuo em projetos da área desde de 2019 e atualmente formado como técnico em programação pelo IFPE :sunglasses:. 
