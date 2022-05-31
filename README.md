@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### Olá! Sejam Bem-Vindos :smiley: 👋
 
 ---
+Me chamo Carlos Henrique Camilo.
 
 Sou desenvolver Júnior pela empresa BVR Negócios e Consultoria, atuo em projetos da área desde de 2019 e atualmente formado como técnico em programação pelo IFPE :sunglasses:.
 
