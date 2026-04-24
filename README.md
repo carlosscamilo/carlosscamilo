@@ -1,6 +1,4 @@
-![capa github](https://github.com/carlosscamilo/carlosscamilo/blob/main/images/Carlos%20Camilo%20GitHub%20Pronta.png)
-
-# 👨‍💻 Carlos Henrique Camilo
+# Carlos Camilo
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosscamilo/)](https://www.linkedin.com/in/carlosscamilo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/carlosscamilo/)](https://www.instagram.com/carlosscamilo/)
