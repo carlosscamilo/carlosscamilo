@@ -1,56 +1,68 @@
-![capa github](https://github.com/carlosscamilo/carlosscamilo/blob/main/images/Carlos%20Camilo%20GitHub%20Pronta.png)  
+![capa github](https://github.com/carlosscamilo/carlosscamilo/blob/main/images/Carlos%20Camilo%20GitHub%20Pronta.png)
 
+# 👨‍💻 Carlos Henrique Camilo
 
-<!--
-**carlosscamilo/carlosscamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosscamilo/)](https://www.linkedin.com/in/carlosscamilo/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/carlosscamilo/)](https://www.instagram.com/carlosscamilo/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carlos_camilo250@hotmail.com)](mailto:carlos_camilo250@hotmail.com)
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<center>
+- 🚀 Full Stack Software Engineer with 4+ years of experience, working across Government, Private, Financial, and AI sectors.
+- 🤖 Focused on building **AI Agents** using Google Cloud native tools — Vertex AI, Dialogflow CX, and Dialogflow ES.
+- ☕ Passionate about robust backend systems with Java, microservices, and event-driven architectures.
+- 💡 Driven by using technology to solve real problems and create solutions that positively impact people's lives.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & Cloud**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend & Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosscamilo&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=carlosscamilo&theme=buefy"/></td>
-    </tr>   
+    </tr>
 </table>
-</center>  
-
-### Olá! Sejam Bem-Vindos :smiley: 👋
-
----
-Me chamo Carlos Henrique Camilo.
-
-Sou desenvolver Júnior pela empresa BVR Negócios e Consultoria, atuo em projetos da área desde de 2019 e atualmente formado como técnico em programação pelo IFPE :sunglasses:.
-
-Adoro jogos :video_game:, música :guitar:, filmes :cinema: e esportes :soccer:.
 
 ---
 
-Fui estudante do Start Latam Recife (By Accenture), Owner no projeto Start Hair e Footclube (Desenvolvido como Projeto de Conclusão de Curso do IFPE)
+## 🏆 Other Info
 
-Luto para incentivar pessoas, de todas as idades e genêros, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :hearts:
+- 🎓 Degree in Computer Science.
+- 🌍 Worked across multiple sectors: Government, Private, Financial, and AI-driven products.
+- 🎮 Gamer, music lover 🎸, movie enthusiast 🎬 and sports fan ⚽.
+- 🌎 Portuguese (native) · English (professional proficiency).
 
 ---
-
-### E onde você pode me encontrar? :mag:
-
-<a href="https://twitter.com/carlosscamilo"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/carlosscamilo)   
-
-<a href="https://www.instagram.com/carlosscamilo/"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/carlosscamilo)  
-
-<a href="https://www.linkedin.com/in/carlosscamilo"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/linkedin%20(1).png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/carlosscamilo)  
-
-<a href="mailto:carlos_camilo250@hotmail.com"><img src="https://github.com/carlosscamilo/carlosscamilo/blob/main/images/email.png" width="16"></img></a> [Email](mailto:carlos_camilo250@hotmail.com)  
-
----  
 
 ![](https://komarev.com/ghpvc/?username=carlosscamilo&color=blue&style=flat)
